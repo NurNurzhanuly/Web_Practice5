@@ -1,5 +1,5 @@
-db.tv_shows.find({ name: "Soon Premiere" })
 const express = require('express');
+
 const bodyParser = require('body-parser');
 
 const app = express();
